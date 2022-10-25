@@ -1,0 +1,27 @@
+[
+    {
+        "id":"1",
+        "name":"Html & CSS"
+    },
+    {
+        "id":"2",
+        "name":"Bootstrap"
+    },
+    {
+        "id":"1",
+        "name":"Tailwindcss"
+    },
+    {
+        "id":"1",
+        "name":"JavaScript"
+    },
+    {
+        "id":"1",
+        "name":"Node Js"
+    },
+    {
+        "id":"1",
+        "name":"MongoDb"
+    }
+
+]
