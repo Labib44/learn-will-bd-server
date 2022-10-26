@@ -2,7 +2,7 @@
 	{
 		"id": 1,
 		"balance": "$485",
-		"picture": "https://blog.logrocket.com/wp-content/uploads/2020/12/javascript-custom-events.png",
+		"picture": "https://blog.logrocket.com/wp-content/uploads/2021/02/machine-learning-libraries-javascript.png",
 		"lecture": 11,
 		"Quiz": 11,
 		"category": "JavaScript",
@@ -16,7 +16,7 @@
 	{
 		"id": 2,
 		"balance": "$385",
-		"picture": "https://plugins.miniorange.com/wp-content/uploads/2018/10/wordpress-slider1.jpg",
+		"picture": "https://i0.wp.com/sourcetech411.com/wp-content/uploads/2018/08/wordpress-581849__480.jpg?fit=900%2C480&ssl=1",
 		"lecture": 7,
 		"Quiz": 10,
 		"category": "WordPress",
@@ -58,7 +58,7 @@
 	{
 		"id": 5,
 		"balance": "$155",
-		"picture": "https://res.cloudinary.com/practicaldev/image/fetch/s--8caaw1hY--/c_imagga_scale,f_auto,fl_progressive,h_1080,q_auto,w_1080/https://dev-to-uploads.s3.amazonaws.com/i/k5dp029baand3ni510db.jpg",
+		"picture": "https://media.monsterindia.com/career-advice/wp-content/uploads/2021/11/HTML-and-CSS-interview-questions.jpg",
 		"lecture": 18,
 		"Quiz": 20,
 		"category": "HTML, CSS",
@@ -100,7 +100,7 @@
 	{
 		"id": 8,
 		"balance": "$350",
-		"picture": "https://cloudtechbd.net/wp-content/uploads/2017/10/PHP.jpg",
+		"picture": "https://oscarmini.com/wp-content/uploads/2017/01/php.png",
 		"lecture": 55,
 		"Quiz": 70,
 		"category": "PHP",
@@ -114,7 +114,7 @@
 	{
 		"id": 9,
 		"balance": "$350",
-		"picture": "https://www.colum.edu/img/academics/programs/animation/cintiq-lab.jpg",
+		"picture": "https://www.maacindia.com/blog/wp-content/uploads/2021/10/n-creative-minds.jpg",
 		"lecture": 60,
 		"Quiz": 70,
 		"category": "Animation",
